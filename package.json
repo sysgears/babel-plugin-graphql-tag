@@ -26,7 +26,7 @@
     }
   },
   "main": "dist/index.js",
-  "name": "babel-plugin-graphql-tag",
+  "name": "@gqlapp/babel-plugin-graphql-tag",
   "peerDependencies": {
     "@babel/core": "^7.0.0",
     "graphql-tag": "^2.10.1"
